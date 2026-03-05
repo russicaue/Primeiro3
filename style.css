@@ -1,0 +1,40 @@
+
+
+        body {
+            background-color: rgb(168, 157, 157);
+        }
+
+       .FOTO img{
+            width: 250px;
+            height: 250px;
+            margin-left: 835px;
+            flex-wrap: wrap;}
+       
+           
+
+       .FOTO {
+            display: flex;
+            justify-content: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+         }  
+
+           
+           
+
+        h1 {
+            color: rgb(255, 253, 253);
+            font-size: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 50px;
+            display: flex;
+            justify-content: center;
+        }
+h2 {
+    color: rgb(255, 253, 253);
+    font-size: 30px;
+    font-family: Arial;
+   display: flex;
+   justify-content: center;
+}
+    
